@@ -33,10 +33,12 @@ HOME PAGE
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/115445242/195978768-8c169fe0-5ceb-4f56-8d74-a8bcafc98d1c.png">
 
 abut us
-
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/115445242/195979157-4ddb49be-634a-4eb6-8f21-a7119191c1bb.png">
 
 FAQ
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/115445242/195978975-233b2e1e-4dd6-4b47-b765-b2c13172312b.png">
 
+contact us
+<img width="930" alt="image" src="https://user-images.githubusercontent.com/115445242/195979213-4e6cec7a-70d5-4285-b106-605ac04d8477.png">
 
 
